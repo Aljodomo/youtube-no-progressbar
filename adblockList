@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+youtube.com##SPAN[class="style-scope ytd-thumbnail-overlay-time-status-renderer"]
+youtube.com##DIV[class="ytp-progress-bar "]
+youtube.com##SPAN[class="ytp-time-duration"]
+youtube.com##DIV[class="ytp-ce-element ytp-ce-playlist ytp-ce-bottom-right-quad ytp-ce-size-1280 ytp-ce-element-show"]
+youtube.com##DIV[class="ytp-ce-element ytp-ce-playlist ytp-ce-element-show ytp-ce-bottom-right-quad ytp-ce-size-1280"]
+youtube.com##DIV[class="ytp-ce-element ytp-ce-playlist ytp-ce-element-show ytp-ce-bottom-right-quad ytp-ce-size-1920"]
+youtube.com##DIV[class="ytp-ce-element ytp-ce-playlist ytp-ce-bottom-right-quad ytp-ce-size-1920 ytp-ce-element-show"]
